@@ -2,6 +2,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/ee3ad294-ba95-4d32-b3e5-056e84c85649" width="200" height="350">
 
-$\texttt{\color{color hex code here}hello! Welcome. I hope you find something of interest here.}$
+$\texttt{\color{#4cb350}hello! Welcome. I hope you find something of interest here.}$
 
-$\texttt{\color{color hex code here}you can just call me Shiori, Shio, Malleus or Mal, I don't mind at all anything is fine with me :candle:}$
+$\texttt{\color{#4cb350}you can just call me Shiori, Shio, Malleus or Mal, I don't mind at all anything is fine with me :candle:}$
+
