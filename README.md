@@ -14,4 +14,6 @@ $\texttt{\color{#4cb350}please do check my Pronouns.page for any more stuff rela
 
 $\texttt{\color{color hex code here}Lyric is the english trasnlation of the official Over}$
 
-![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=52ba3d&style=plastic&label=)
+![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=52ba3d&style=plastic&label=🌿&abbreviated=true)
+
+$\texttt{\color{#4cb350}Asp1rin on the En server of Twisted wonderland, please do friend me there!🕯️}$
