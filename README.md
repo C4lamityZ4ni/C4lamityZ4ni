@@ -11,3 +11,7 @@ $\texttt{\color{#4cb350}my pronouns are She/They, unfortunately I don't accept a
 $\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean to me, plus if I'm with friends please do ask me in whisper!}$
 
 $\texttt{\color{#4cb350}please do check my Pronouns.page for any more stuff related to me, like what I like and hate, what names to use and all that}$
+
+$\texttt{\color{color hex code here}Lyric is the english trasnlation of the official Over}$
+
+![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=2c2c2c)
