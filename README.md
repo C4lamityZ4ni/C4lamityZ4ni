@@ -1,6 +1,6 @@
-![typewriter](https://github.com/user-attachments/assets/8d995d22-2b37-41ef-99af-5cff08250d86)
+![typewriter](https://github.com/user-attachments/assets/e5dc0ea8-38c6-49be-8e3a-a953f0ba3dbf)
 
-<img align="right" src="https://github.com/user-attachments/assets/37650cfa-9808-4394-95de-cf9bdb2a507e" width="200" height="350">
+<img align="right" src="https://github.com/user-attachments/assets/ee3ad294-ba95-4d32-b3e5-056e84c85649" width="200" height="350">
 
 $\texttt{\color{color hex code here}hello! Welcome. I hope you find something of interest here.}$
 
