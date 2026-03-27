@@ -8,4 +8,4 @@ $\texttt{\color{#4cb350}you can just call me Shiori, Shio, Malleus or Mal, I don
 
 $\texttt{\color{#4cb350}my pronouns are She/They, unfortunately I don't accept any other pronouns other than the ones listed in it.}$
 
-$\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean}$
+$\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean to me, plus if I'm with friends please do ask me in whisper!}$
