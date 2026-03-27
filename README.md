@@ -14,4 +14,4 @@ $\texttt{\color{#4cb350}please do check my Pronouns.page for any more stuff rela
 
 $\texttt{\color{color hex code here}Lyric is the english trasnlation of the official Over}$
 
-![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=2c2c2c)
+![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=253c20)
