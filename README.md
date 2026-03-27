@@ -6,3 +6,6 @@ $\texttt{\color{#4cb350}hello! Welcome. I hope you find something of interest he
 
 $\texttt{\color{#4cb350}you can just call me Shiori, Shio, Malleus or Mal, I don't mind at all anything is fine with me :candle:}$
 
+$\texttt{\color{#4cb350}my pronouns are She/They, unfortunately I don't accept any other pronouns other than the ones listed in it.}$
+
+$\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean}$
