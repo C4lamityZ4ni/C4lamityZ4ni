@@ -4,16 +4,16 @@
 
 $\texttt{\color{#4cb350}hello! Welcome. I hope you find something of interest here.}$
 
-$\texttt{\color{#4cb350}you can just call me Shiori, Shio, Malleus or Mal, I don't mind at all anything is fine with me :candle:}$
+$\texttt{\color{#4cb350}you can just call me Shiori, Shio, Malleus or Mal, I don't mind at all anything is fine with me 🕯️}$
 
-$\texttt{\color{#4cb350}my pronouns are She/They, unfortunately I don't accept any other pronouns other than the ones listed in it.}$
+$\texttt{\color{#4cb350}my pronouns are She/They, unfortunately I don't accept any other pronouns other than the ones listed in it. 🕯️}$
 
-$\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean to me, plus if I'm with friends please do ask me in whisper!}$
+$\texttt{\color{#4cb350}C+H is mostly fine with me, but please don't be mean to me, plus if I'm with friends please do ask me in whisper! 🕯️}$
 
-$\texttt{\color{#4cb350}please do check my Pronouns.page for any more stuff related to me, like what I like and hate, what names to use and all that}$
+$\texttt{\color{#4cb350}please do check my Pronouns.page for any more stuff related to me, like what I like and hate, what names to use and all that 🕯️}$
 
-$\texttt{\color{color hex code here}Lyric is the english trasnlation of the official Over}$
+$\texttt{\color{#4cb350}The Lyric is an english translation of Malleus's Overblot Song 'Blessing'}$
 
-![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=52ba3d&style=plastic&label=🌿&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=c4lamityz4ni&color=52ba3d&style=plastic&label=🕯️&abbreviated=true)
 
 $\texttt{\color{#4cb350}Asp1rin on the En server of Twisted wonderland, please do friend me there!🕯️}$
